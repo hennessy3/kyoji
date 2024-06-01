@@ -1,0 +1,15 @@
+{
+  "code": "113",
+  "message": "토큰값이 유효하지 않습니다.",
+  "data": {
+    "school_name": "충북대",
+    "contents": [
+      {
+        "title": "[『개신』 76집 : 쉼터] 이건 몰랐지? 청주에서 탄생한 유명 맛집들",
+        "created_at": "2023-12-09",
+        "tags": ["『개신』 76집"],
+        "content_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=37012966&memberNo=49787983"
+      }
+    ]
+  }
+}
