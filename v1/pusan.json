@@ -1,0 +1,21 @@
+{
+  "code": "113",
+  "message": "토큰값이 유효하지 않습니다.",
+  "data": {
+    "school_name": "부산대",
+    "contents": [
+      {
+        "title": "서폿 차이",
+        "created_at": "2023-01-05",
+        "tags": ["136호/2022 겨울"],
+        "content_url": "https://blog.naver.com/PostView.naver?blogId=pnuhyowon&logNo=222975613857&redirect=Dlog"
+      },
+      {
+        "title": "미래의 노벨상 수상자들에게",
+        "created_at": "2023-01-05",
+        "tags": ["136호/2022 겨울"],
+        "content_url": "https://blog.naver.com/PostView.naver?blogId=pnuhyowon&logNo=222975613488&redirect=Dlog"
+      },
+    ]
+  }
+}
