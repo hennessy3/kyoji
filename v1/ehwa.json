@@ -1,0 +1,57 @@
+{
+  "code": "113",
+  "message": "토큰값이 유효하지 않습니다.",
+  "data": {
+    "school_name": "이화여대",
+    "contents": [
+      {
+        "title": "남성혐오 규탄한다 이것저것 보장하라",
+        "created_at": "2024-03-20",
+        "tags" : ["여성"],
+        "content_url": "https://m.blog.naver.com/ewhagyoji216/223389099942"
+      },
+      {
+        "title": "여성혐오가 개그인 시대",
+        "created_at": "2024-03-20",
+        "tags" : ["여성"],
+        "content_url": "https://m.blog.naver.com/ewhagyoji216/223389099842"
+      },
+      {
+        "title": "소비자가 아니라 빠순이!",
+        "created_at": "2024-03-20",
+        "tags" : ["여성"],
+        "content_url": "https://m.blog.naver.com/ewhagyoji216/223389094905"
+      },
+      {
+        "title": "요즘 청불 뭐 봄?: 폭력성에 관하여",
+        "created_at": "2024-03-20",
+        "tags" : ["사회"],
+        "content_url": "https://m.blog.naver.com/ewhagyoji216/223389093283"
+      },
+      {
+        "title": "카카오 99.9%",
+        "created_at": "2024-03-20",
+        "tags" : ["사회"],
+        "content_url": "https://m.blog.naver.com/ewhagyoji216/223389091448"
+      },
+      {
+        "title": "부자의, 부자에 의한, 부자를 위한",
+        "created_at": "2024-03-20",
+        "tags" : ["사회"],
+        "content_url": "https://m.blog.naver.com/ewhagyoji216/223389089324"
+      },
+      {
+        "title": "대중고통",
+        "created_at": "2024-03-19",
+        "tags" : ["사회"],
+        "content_url": "https://m.blog.naver.com/ewhagyoji216/223387989569"
+      },
+      {
+        "title": "경고! 당신의 사회는 안전합니까?",
+        "created_at": "2024-03-19",
+        "tags" : ["사회"],
+        "content_url": "https://m.blog.naver.com/ewhagyoji216/223387986453"
+      }
+    ]
+  }
+}
