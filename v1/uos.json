@@ -1,1 +1,40 @@
-
+{
+  "code": "113",
+  "message": "토큰값이 유효하지 않습니다.",
+  "data": {
+    "school_name": "서울시립대",
+    "contents": [
+      {
+        "title": "서울시립대 교지 61호 아카이브",
+        "created_at": "2021-03-23",
+        "tags": ["아카이빙"],
+        "content_url": "https://m.blog.naver.com/uosmunhwa/222284650147"
+      },
+      {
+        "title": "서울시립대 교지 60호 아카이브",
+        "created_at": "2020-10-20",
+        "tags": ["아카이빙"],
+        "content_url": "https://m.blog.naver.com/uosmunhwa/222121386817"
+      },
+      {
+        "title": "서울시립대 교지 59호 아카이브",
+        "created_at": "2020-10-20",
+        "tags": ["아카이빙"],
+        "content_url": "https://m.blog.naver.com/uosmunhwa/221999480047"
+      },
+      {
+        "title": "서울시립대 교지 58호 아카이브",
+        "created_at": "2020-10-20",
+        "tags": ["아카이빙"],
+        "content_url": "https://m.blog.naver.com/uosmunhwa/221926894442"
+      },
+      {
+        "title": "서울시립대 교지 57호 아카이브",
+        "created_at": "2020-10-20",
+        "tags": ["아카이빙"],
+        "content_url": "https://m.blog.naver.com/uosmunhwa/221926887220"
+      },
+      
+    ]
+  }
+}
